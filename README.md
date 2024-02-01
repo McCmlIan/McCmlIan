@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @McCmlIan
 - 👀 I’m interested in learning and teaching.
-- 🌱 I’m currently learning Drums, Singing, Applikation Realising and living a good life.
-- 💞️ I’m looking to collaborate on liveing a good life and testing programms.
+- 🌱 I’m currently learning Drums, Singing, Applikation Realising and more.
+- 💞️ I’m looking to collaborate on programms, projekts and music.
 - 📫 How to reach me is a question you may know.
 
 <!---
